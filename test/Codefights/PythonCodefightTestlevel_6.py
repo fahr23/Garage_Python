@@ -1,6 +1,6 @@
 import unittest
 
-from main.PythonCodefightlevel_6 import level6
+from main.Codefights.PythonCodefightlevel_6 import level6
 
 
 class MyTestCase(unittest.TestCase):
